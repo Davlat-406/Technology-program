@@ -4,4 +4,4 @@
 
 Вывод
 
-![Лабораторная №1](https://github.com/Davlat-406/Technology-program/tree/Lab2/src)
+![Лабораторная №2](https://github.com/Davlat-406/Technology-program/blob/Lab2/images/1.png)
